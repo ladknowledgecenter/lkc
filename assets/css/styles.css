@@ -452,7 +452,7 @@ footer {
   text-align: center;
 }
 footer a > img {
-  width: 100px;
+      width: 20vw;
 }
 footer .social {
   display: block;
